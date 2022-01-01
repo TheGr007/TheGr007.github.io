@@ -47,7 +47,7 @@ social-network-links:
 #  youtube: c/
 #  medium: yourname
 #  reddit: yourname
-  linkedin: https://www.linkedin.com/in/ayesha-raj-76108a170/
+  linkedin: https://www.linkedin.com/in/ayesha-raj-76108a170
 #  xing: yourname
 #  stackoverflow: "3943160/"
 #  snapchat: deanat78
@@ -75,11 +75,10 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
-  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "TheGr007.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -100,15 +99,15 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#a071a7"
 navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
+navbar-border-col: "#477187"
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#008AFF"
+link-col: "#60365e"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
+footer-col: "#a071a7"
+footer-text-col: "#70bbac"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
@@ -211,7 +210,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Kolkata/Asia"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
